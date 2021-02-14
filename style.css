@@ -109,7 +109,7 @@ hr {
 
 .stat .follower, .stat .likes, .stat .photos {
     display: inline-block;
-    margin: 0 20px;
+    margin: 0 25px;
 }
 
 @media screen and (min-width: 768px) {
